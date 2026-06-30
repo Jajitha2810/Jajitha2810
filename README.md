@@ -1,23 +1,25 @@
 # Hi there, I'm Jajitha! 👋🇮🇳
 
 ## 🎯 About Me
-- 🎓 Computer Science Graduate passionate about AI and NLP
-- 🔬 Aspiring Researcher in **NLP, LLMs and HCI**
-- 🇰🇷 GKS Scholarship Applicant | Kunsan National University
-- 📚 Currently preparing for **TOPIK** and publishing research
-- 💡 Building projects at the intersection of AI and Human interaction
-- 🌱 Always learning, always improving
-
+🎓 Computer Science Graduate with a strong interest in Artificial Intelligence and Machine Learning
+🔬 Aspiring AI Researcher exploring Explainable AI (XAI), Anomaly Detection, NLP, and Large Language Models
+📚 Currently working on an AI research project in Explainable Machine Learning for System Log Anomaly Detection
+💻 Building AI projects and sharing reproducible research on GitHub
+🌱 Lifelong learner passionate about solving real-world problems with AI
 ---
-
 ## 🚀 Current Goals
-- 📝 Publishing research papers in NLP and LLMs
-- 🗣️ Achieving TOPIK Level 2 by December 2026
-- 🏆 GKS R&D Scholarship 2027
-- 🤖 Contributing to Korean NLP research
-
+📄 Publish my first AI research paper in Explainable Machine Learning
+🤖 Develop open-source AI projects focused on Anomaly Detection, NLP, and LLMs
+🏆 Receive the 2027 GKS R&D Scholarship and pursue graduate research in South Korea
+🗣️ Achieve TOPIK Level 2 by the end of 2026
+🌏 Contribute to trustworthy and human-centered AI research
 ---
+## 🔬 Currently Working On
 
+- 📄 Explainable Machine Learning for System Log Anomaly Detection (Research Project)
+- 🤖 Transformer-based Text Summarization
+- 😊 NLP-based Sentiment Analysis
+---
 ## 🛠️ Tech Stack
 
 **Languages:**
@@ -82,9 +84,6 @@ Progressive journey from Python fundamentals to advanced NLP and AI — 5 comple
 ---
 
 ## 💭 My Motto
-> *"Every rejection is just a redirection towards something better.
-> Keep building, keep learning, Korea is waiting."* 🇰🇷✨
-
+> *"Stay curious. Build consistently. Never stop learning."* 🚀
 ---
-
-⭐ *From India to Korea — one commit at a time!* 🚀
+⭐ *Aspiring AI researcher exploring Explainable AI, Machine Learning, NLP, and trustworthy intelligent systems—one commit at a time.*
