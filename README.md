@@ -14,12 +14,32 @@
 🗣️ Achieve TOPIK Level 2 by the end of 2026
 🌏 Contribute to trustworthy and human-centered AI research
 ---
+| Stage                   | Status             |
+| ----------------------- | ------------------ |
+| Literature Review       | 🔄 In Progress     |
+| **Dataset Preparation** | **🔄 In Progress** |
+| Model Development       | ⏳ Pending          |
+| Explainability Analysis | ⏳ Pending          |
+| Paper Writing           | ⏳ Pending          |
+
 ## 🔬 Currently Working On
 
 - 📄 Explainable Machine Learning for System Log Anomaly Detection (Research Project)
 - 🤖 Transformer-based Text Summarization
 - 😊 NLP-based Sentiment Analysis
 ---
+## Current Progress
+
+### Completed
+- Development environment setup (Python, VS Code, Jupyter)
+- GitHub repository creation
+- HDFS dataset download
+- Initial log exploration
+- Parsed log entries using Python
+- Extracted date, time, log level, component, and message from log entries
+
+### Currently Working On
+- Converting raw HDFS logs into a structured dataset for analysis.
 ## 🛠️ Tech Stack
 
 **Languages:**
