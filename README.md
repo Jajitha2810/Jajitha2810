@@ -14,23 +14,7 @@
 🗣️ Achieve TOPIK Level 2 by the end of 2026
 🌏 Contribute to trustworthy and human-centered AI research
 ---
-| Stage                   | Status         |
-| ----------------------- | -------------- |
-| Literature Review       | 🔄 In Progress |
-| Dataset Preparation     | 🔄 In Progress |
-| Model Development       | ⏳ Pending      |
-| Explainability Analysis | ⏳ Pending      |
-| Paper Writing           | ⏳ Pending      |
-----
-### Completed
-- Development environment setup
-- GitHub repository creation
-- HDFS dataset download
-- Initial HDFS log exploration
-- Parsed raw HDFS logs into a structured pandas DataFrame
-- Performed initial exploratory data analysis (EDA)
-- Analyzed log levels and Hadoop component distribution
-----
+
 ### Currently Working On
 - Preparing structured log data for anomaly detection experiments.
 ----
