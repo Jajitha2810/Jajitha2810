@@ -1,23 +1,36 @@
 # Hi there, I'm Jajitha! 👋🇮🇳
 
 ## 🎯 About Me
-🎓 Computer Science Graduate with a strong interest in Artificial Intelligence and Machine Learning
-🔬 Aspiring AI Researcher exploring Explainable AI (XAI), Anomaly Detection, NLP, and Large Language Models
-📚 Currently working on an AI research project in Explainable Machine Learning for System Log Anomaly Detection
-💻 Building AI projects and sharing reproducible research on GitHub
-🌱 Lifelong learner passionate about solving real-world problems with AI
+🎓 Computer Science Graduate passionate about Artificial Intelligence, Machine Learning, and Explainable AI.
+
+🔬 Currently conducting independent research on Explainable Machine Learning for System Log Anomaly Detection.
+
+💻 Building AI projects while documenting my learning and research journey on GitHub.
+
+📚 Interested in Explainable AI (XAI), Anomaly Detection, Natural Language Processing, and Large Language Models.
+
+🌱 Lifelong learner who enjoys transforming ideas into practical AI solutions.
 ---
 ## 🚀 Current Goals
 📄 Publish my first AI research paper in Explainable Machine Learning
 🤖 Develop open-source AI projects focused on Anomaly Detection, NLP, and LLMs
-🏆 Receive the 2027 GKS R&D Scholarship and pursue graduate research in South Korea
+🏆 Pursue graduate research in South Korea through the 2027 GKS R&D Scholarship
 🗣️ Achieve TOPIK Level 2 by the end of 2026
 🌏 Contribute to trustworthy and human-centered AI research
 ---
 
 ### Currently Working On
-- Preparing structured log data for anomaly detection experiments.
+- Exploratory Data Analysis (EDA) of the HDFS log dataset
+- Preparing structured log data for anomaly detection experiments
+- Building the foundation for explainable anomaly detection models
 ----
+## 📖 Currently Learning
+
+- Explainable AI (SHAP & LIME)
+- Deep Learning for Log Anomaly Detection
+- Natural Language Processing
+- Research Paper Writing
+- Git & GitHub for Research Projects
 ## 🛠️ Tech Stack
 
 **Languages:**
@@ -57,7 +70,6 @@ Python dashboard with Excel integration, Gantt charts and project health scoring
 
 ### 🐍 [Python Learning Journey](https://github.com/Jajitha2810/python-learning-journey)
 Progressive journey from Python fundamentals to advanced NLP and AI — 5 complete stages
-
 ---
 
 ## 📊 GitHub Stats
@@ -78,10 +90,6 @@ Progressive journey from Python fundamentals to advanced NLP and AI — 5 comple
 
 ## 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Jajitha2810-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jajitha2810)
-
----
-
-## 💭 My Motto
-> *"Stay curious. Build consistently. Never stop learning."* 🚀
----
-⭐ *Aspiring AI researcher exploring Explainable AI, Machine Learning, NLP, and trustworthy intelligent systems—one commit at a time.*
+💼 LinkedIn
+  
+⭐ Thanks for visiting my profile! I'm always learning, building, and exploring new ideas in AI and research.
