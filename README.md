@@ -9,7 +9,6 @@
 
 📚 Interested in Explainable AI (XAI), Anomaly Detection, Natural Language Processing, and Large Language Models.
 
-🌱 Lifelong learner who enjoys transforming ideas into practical AI solutions.
 ---
 ## 🚀 Current Goals
 📄 Publish my first AI research paper in Explainable Machine Learning
