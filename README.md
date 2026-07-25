@@ -87,8 +87,13 @@ Progressive journey from Python fundamentals to advanced NLP and AI — 5 comple
 
 ---
 
-## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-Jajitha2810-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jajitha2810)
-💼 LinkedIn https://www.linkedin.com/in/jajitha-kumbakonam-053693196?utm_source=share_via&utm_content=profile&utm_medium=member_android
-  
+## 🤝 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/jajitha-kumbakonam-053693196/
+
+💻 GitHub: https://github.com/Jajitha2810
+
+---
+
 ⭐ Thanks for visiting my profile! I'm always learning, building, and exploring new ideas in AI and research.
+  
